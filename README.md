@@ -1,6 +1,6 @@
 # 📊 E-Commerce Sales Analytics Dashboard — FY 2024
 
-> A hiring-level Microsoft Excel analytics project demonstrating end-to-end data analysis across 1,913 transactions, 10 product categories, 5 regions, and 4 sales channels — built entirely with advanced Excel formulas, dynamic dashboards, and professional data visualization.
+> A high-level Microsoft Excel analytics project demonstrating end-to-end data analysis across 1,913 transactions, 10 product categories, 5 regions, and 4 sales channels — built entirely with advanced Excel formulas, dynamic dashboards, and professional data visualization.
 
 ---
 
